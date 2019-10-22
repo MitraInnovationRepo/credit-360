@@ -1,0 +1,5 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@handleBackground: rgb(179, 255, 171) !important;

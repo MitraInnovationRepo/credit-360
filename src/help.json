@@ -1,0 +1,14 @@
+{
+    "summary": {
+        "main": {
+            "title": "What does this score mean?",
+            "description": ["The score is calculated based on four main categories", "<b>Usage</b> - Usage of phone and other data services.<br/>Consistent utilization of phone and airtime with higher scores. People who communicate more frequently tend to be more likely to be good borrowers. Increased trend of airtime utilization indicates a 6% increase in repayment.Watch out for erratic phone usage history and sudden decrease of airtime and bundle purchases. A score that drops from >7 to <4 indicates potential issues in relationships with contacts and instability. A score that indicates high bundle of purchase but low airtime utilization still reflects higher indication of repayment.", "<b>VAS</b> - Utilization of Value Added Services including mobile wallet.", "<b>Location</b> -  Diversity of network communications, travel and days spent at different zones within primary geography.", "<b>Payments</b> - Payments history for primary network usage and any additional services consumed."]
+        }
+    },
+    "details": {
+        "geomap": {
+            "title": "What does this mean?",
+            "description": ["<h4>Network Diversity</h4>Communication with many different people throughout the day indicates a strong support network. People who communicate with more than 58 different contacts tend to be more likely to be good borrowers indicating a 9 % increase in repayment.<h4>Location Consistency</h4>Geographical locations for a certain period time gives rich information about a person.<br/>The places visited and the duration is a significant indicator of how well the person is established in a given geographical zone.<br/>The map shows how he/she was geographically located within the last 365 days. The size of the yellow bubble is an indicator of how many days he/she has spent at that geograhphical zone compared to others.<br/><b>Regular travel patterns, either at home or at place of business indicates 6% increase in repayment among customers who are consistent with where they spend most of their time.</b>"]
+        }
+    }
+}

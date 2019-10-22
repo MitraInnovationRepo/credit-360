@@ -1,0 +1,1175 @@
+{
+    "metaInformation": {
+        "minCreditScore": 350,
+        "maxCreditScore": 850
+    },
+    "JamesWilliam": {
+        "creditScore": 510,
+        "country": "GBR",
+        "categories": [{
+                "title": "Phone Usage",
+                "score": 4.7,
+                "maxScore": 10,
+                "subCategories": [{
+                        "title": "Airtime utilized - last 3 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "Airtime utilized - last 6 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "Highest value of purchase - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total value of purchase",
+                        "score": 4
+                    },
+                    {
+                        "title": "Days since last activity",
+                        "score": 5
+                    },
+                    {
+                        "title": "Retail value of the latest handset ",
+                        "score": 8
+                    },
+                    {
+                        "title": "Number of Airtime loans - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "Number of topup loans fallen overdue - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "Total blacklisted days for failure of prepaid payment -  last 6 months",
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "title": "Mobile Wallet Transactions",
+                "score": 4.9,
+                "maxScore": 10,
+                "subCategories": [{
+                        "title": "Days since last activity",
+                        "score": 6
+                    },
+                    {
+                        "title": "Total deposit at an agent - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total withdrawal  at an agent - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Total deposit from all sources - last 3 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "Total withdrawal  from all sources - last 3 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "Months on mobile network",
+                        "score": 2
+                    },
+                    {
+                        "title": "Months on mobile wallet",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total Other receipts into wallet - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Total Disbursements (B2C) - last 6 months",
+                        "score": 5
+                    },
+                    {
+                        "title": "Suspensions due to non-activity",
+                        "score": 6
+                    },
+                    {
+                        "title": "Modal value of balance - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Average balance - last 6 months",
+                        "score": 8
+                    }
+                ]
+            },
+            {
+                "title": "Payments",
+                "score": 5.7,
+                "maxScore": 10,
+                "subCategories": [{
+                        "title": "Payment to utility - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "No of utility payment - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "P2P amount sent - last 6 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "P2P recipients - last 6 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "MMI transactions sent - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "MMI transactions received - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Value of MMI transactions sent - last 6 months",
+                        "score": 5
+                    },
+                    {
+                        "title": "Value of MMI transactions received - last 6 months",
+                        "score": 6
+                    },
+                    {
+                        "title": "Highest P2P amount sent - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total P2P amount received - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Highest P2P amount received - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "Number of P2P receipts into the wallet - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "Total amount paid for online shopping - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total number of online transaction - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Money paid to bank account via paybill - last 6 months",
+                        "score": 5
+                    }
+                ]
+            },
+            {
+                "title": "Location Distribution",
+                "score": 3,
+                "maxScore": 10,
+                "subCategories": [{
+                        "title": "Location Consistency",
+                        "score": 2,
+                        "zonalData": [{
+                                "title": "London",
+                                "zoneId": 1,
+                                "numberOfDays": 220
+                            },
+                            {
+                                "title": "Bristol",
+                                "zoneId": 2,
+                                "numberOfDays": 40
+                            },
+                            {
+                                "title": "Manchester",
+                                "zoneId": 3,
+                                "numberOfDays": 30
+                            },
+                            {
+                                "title": "Newcastle",
+                                "zoneId": 4,
+                                "numberOfDays": 70
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Network Diversity",
+                        "score": 3,
+                        "zonalData": [{
+                                "title": "London",
+                                "zoneId": 1,
+                                "numberOfDays": 68
+                            },
+                            {
+                                "title": "Bristol",
+                                "zoneId": 2,
+                                "numberOfDays": 35
+                            },
+                            {
+                                "title": "Manchester",
+                                "zoneId": 3,
+                                "numberOfDays": 22
+                            },
+                            {
+                                "title": "Oxford",
+                                "zoneId": 4,
+                                "numberOfDays": 80
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Stability in key relationships",
+                        "score": 4,
+                        "zonalData": [{
+                                "title": "London",
+                                "zoneId": 1,
+                                "numberOfDays": 67
+                            },
+                            {
+                                "title": "Bristol",
+                                "zoneId": 2,
+                                "numberOfDays": 92
+                            },
+                            {
+                                "title": "Manchester",
+                                "zoneId": 3,
+                                "numberOfDays": 86
+                            },
+                            {
+                                "title": "Brigton",
+                                "zoneId": 4,
+                                "numberOfDays": 49
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "creditScoreHistory": {
+            "3months": [{
+                    "x": 1,
+                    "y": 480
+                },
+                {
+                    "x": 2,
+                    "y": 484
+                },
+                {
+                    "x": 3,
+                    "y": 485
+                },
+                {
+                    "x": 4,
+                    "y": 486
+                },
+                {
+                    "x": 5,
+                    "y": 487
+                },
+                {
+                    "x": 6,
+                    "y": 484
+                },
+                {
+                    "x": 7,
+                    "y": 480
+                },
+                {
+                    "x": 8,
+                    "y": 480
+                },
+                {
+                    "x": 9,
+                    "y": 479
+                },
+                {
+                    "x": 10,
+                    "y": 476
+                },
+                {
+                    "x": 11,
+                    "y": 480
+                },
+                {
+                    "x": 12,
+                    "y": 492
+                },
+                {
+                    "x": 13,
+                    "y": 496
+                },
+                {
+                    "x": 14,
+                    "y": 492
+                },
+                {
+                    "x": 15,
+                    "y": 500
+                },
+                {
+                    "x": 16,
+                    "y": 502
+                },
+                {
+                    "x": 17,
+                    "y": 505
+                },
+                {
+                    "x": 18,
+                    "y": 507
+                },
+                {
+                    "x": 19,
+                    "y": 509
+                },
+                {
+                    "x": 20,
+                    "y": 510
+                }
+            ],
+            "6months": [{
+                    "x": 1,
+                    "y": 485
+                },
+                {
+                    "x": 2,
+                    "y": 484
+                },
+                {
+                    "x": 3,
+                    "y": 483
+                },
+                {
+                    "x": 4,
+                    "y": 480
+                },
+                {
+                    "x": 5,
+                    "y": 480
+                },
+                {
+                    "x": 6,
+                    "y": 478
+                },
+                {
+                    "x": 7,
+                    "y": 481
+                },
+                {
+                    "x": 8,
+                    "y": 482
+                },
+                {
+                    "x": 9,
+                    "y": 483
+                },
+                {
+                    "x": 10,
+                    "y": 480
+                },
+                {
+                    "x": 11,
+                    "y": 485
+                },
+                {
+                    "x": 12,
+                    "y": 486
+                },
+                {
+                    "x": 13,
+                    "y": 487
+                },
+                {
+                    "x": 14,
+                    "y": 488
+                },
+                {
+                    "x": 15,
+                    "y": 476
+                },
+                {
+                    "x": 16,
+                    "y": 479
+                },
+                {
+                    "x": 17,
+                    "y": 486
+                },
+                {
+                    "x": 18,
+                    "y": 500
+                },
+                {
+                    "x": 19,
+                    "y": 490
+                },
+                {
+                    "x": 20,
+                    "y": 510
+                }
+            ],
+            "12months": [{
+                    "x": 1,
+                    "y": 476
+                },
+                {
+                    "x": 2,
+                    "y": 475
+                },
+                {
+                    "x": 3,
+                    "y": 473
+                },
+                {
+                    "x": 4,
+                    "y": 477
+                },
+                {
+                    "x": 5,
+                    "y": 480
+                },
+                {
+                    "x": 6,
+                    "y": 473
+                },
+                {
+                    "x": 7,
+                    "y": 470
+                },
+                {
+                    "x": 8,
+                    "y": 484
+                },
+                {
+                    "x": 9,
+                    "y": 483
+                },
+                {
+                    "x": 10,
+                    "y": 485
+                },
+                {
+                    "x": 11,
+                    "y": 486
+                },
+                {
+                    "x": 12,
+                    "y": 483
+                },
+                {
+                    "x": 13,
+                    "y": 484
+                },
+                {
+                    "x": 14,
+                    "y": 479
+                },
+                {
+                    "x": 15,
+                    "y": 480
+                },
+                {
+                    "x": 16,
+                    "y": 476
+                },
+                {
+                    "x": 17,
+                    "y": 480
+                },
+                {
+                    "x": 18,
+                    "y": 500
+                },
+                {
+                    "x": 19,
+                    "y": 490
+                },
+                {
+                    "x": 20,
+                    "y": 510
+                }
+            ],
+            "24months": [{
+                    "x": 1,
+                    "y": 450
+                },
+                {
+                    "x": 2,
+                    "y": 455
+                },
+                {
+                    "x": 3,
+                    "y": 440
+                },
+                {
+                    "x": 4,
+                    "y": 438
+                },
+                {
+                    "x": 5,
+                    "y": 435
+                },
+                {
+                    "x": 6,
+                    "y": 448
+                },
+                {
+                    "x": 7,
+                    "y": 450
+                },
+                {
+                    "x": 8,
+                    "y": 456
+                },
+                {
+                    "x": 9,
+                    "y": 476
+                },
+                {
+                    "x": 10,
+                    "y": 476
+                },
+                {
+                    "x": 11,
+                    "y": 480
+                },
+                {
+                    "x": 12,
+                    "y": 480
+                },
+                {
+                    "x": 13,
+                    "y": 485
+                },
+                {
+                    "x": 14,
+                    "y": 487
+                },
+                {
+                    "x": 15,
+                    "y": 485
+                },
+                {
+                    "x": 16,
+                    "y": 480
+                },
+                {
+                    "x": 17,
+                    "y": 480
+                },
+                {
+                    "x": 18,
+                    "y": 480
+                },
+                {
+                    "x": 19,
+                    "y": 500
+                },
+                {
+                    "x": 20,
+                    "y": 510
+                }
+            ]
+        },
+        "categoricalHistory": {
+            "3months": [{
+                    "title": "Phone Usage",
+                    "score": 7.6
+                },
+                {
+                    "title": "Mobile Wallet Transactions",
+                    "score": 4.2
+                },
+                {
+                    "title": "Payments",
+                    "score": 4.1
+                },
+                {
+                    "title": "Location Distribution",
+                    "score": 4.5
+                }
+            ],
+            "6months": [{
+                    "title": "Phone Usage",
+                    "score": 3.7
+                },
+                {
+                    "title": "Mobile Wallet Transactions",
+                    "score": 4.4
+                },
+                {
+                    "title": "Payments",
+                    "score": 4.5
+                },
+                {
+                    "title": "Location Distribution",
+                    "score": 4.5
+                }
+            ],
+            "12months": [{
+                    "title": "Phone Usage",
+                    "score": 3.8
+                },
+                {
+                    "title": "Mobile Wallet Transactions",
+                    "score": 4.6
+                },
+                {
+                    "title": "Payments",
+                    "score": 4.1
+                },
+                {
+                    "title": "Location Distribution",
+                    "score": 4.2
+                }
+            ],
+            "24months": [{
+                    "title": "Phone Usage",
+                    "score": 4.1
+                },
+                {
+                    "title": "Mobile Wallet Transactions",
+                    "score": 4.5
+                },
+                {
+                    "title": "Payments",
+                    "score": 4.4
+                },
+                {
+                    "title": "Location Distribution",
+                    "score": 4.7
+                }
+            ]
+        }
+    },
+    "PeterHarington": {
+        "creditScore": 645,
+        "country": "AUS",
+        "categories": [{
+                "title": "Phone Usage",
+                "score": 4.7,
+                "maxScore": 10,
+                "subCategories": [{
+                        "title": "Airtime utilized - last 3 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "Airtime utilized - last 6 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "Highest value of purchase - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total value of purchase",
+                        "score": 4
+                    },
+                    {
+                        "title": "Days since last activity",
+                        "score": 5
+                    },
+                    {
+                        "title": "Retail value of the latest handset ",
+                        "score": 8
+                    },
+                    {
+                        "title": "Number of Airtime loans - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "Number of topup loans fallen overdue - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "Total blacklisted days for failure of prepaid payment -  last 6 months",
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "title": "Mobile Wallet Transactions",
+                "score": 4.9,
+                "maxScore": 10,
+                "subCategories": [{
+                        "title": "Days since last activity",
+                        "score": 6
+                    },
+                    {
+                        "title": "Total deposit at an agent - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total withdrawal  at an agent - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Total deposit from all sources - last 3 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "Total withdrawal  from all sources - last 3 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "Months on mobile network",
+                        "score": 2
+                    },
+                    {
+                        "title": "Months on mobile wallet",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total Other receipts into wallet - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Total Disbursements (B2C) - last 6 months",
+                        "score": 5
+                    },
+                    {
+                        "title": "Suspensions due to non-activity",
+                        "score": 6
+                    },
+                    {
+                        "title": "Modal value of balance - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Average balance - last 6 months",
+                        "score": 8
+                    }
+                ]
+            },
+            {
+                "title": "Payments",
+                "score": 5.7,
+                "maxScore": 10,
+                "subCategories": [{
+                        "title": "Payment to utility - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "No of utility payment - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "P2P amount sent - last 6 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "P2P recipients - last 6 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "MMI transactions sent - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "MMI transactions received - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Value of MMI transactions sent - last 6 months",
+                        "score": 5
+                    },
+                    {
+                        "title": "Value of MMI transactions received - last 6 months",
+                        "score": 6
+                    },
+                    {
+                        "title": "Highest P2P amount sent - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total P2P amount received - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Highest P2P amount received - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "Number of P2P receipts into the wallet - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "Total amount paid for online shopping - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total number of online transaction - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Money paid to bank account via paybill - last 6 months",
+                        "score": 5
+                    }
+                ]
+            },
+            {
+                "title": "Location Distribution",
+                "score": 3,
+                "maxScore": 10,
+                "subCategories": [{
+                        "title": "Location Consistency",
+                        "score": 2,
+                        "zonalData": [{
+                                "title": "Townsville",
+                                "zoneId": 1,
+                                "numberOfDays": 20
+                            },
+                            {
+                                "title": "Warrnambool",
+                                "zoneId": 2,
+                                "numberOfDays": 40
+                            },
+                            {
+                                "title": "Bendigo",
+                                "zoneId": 3,
+                                "numberOfDays": 30
+                            },
+                            {
+                                "title": "Adelaide",
+                                "zoneId": 4,
+                                "numberOfDays": 70
+                            },
+                            {
+                                "title": "Sydney",
+                                "zoneId": 5,
+                                "numberOfDays": 200
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Network Diversity",
+                        "score": 3,
+                        "zonalData": [{
+                                "title": "Melbourne",
+                                "zoneId": 1,
+                                "numberOfDays": 50
+                            },
+                            {
+                                "title": "Bendigo",
+                                "zoneId": 2,
+                                "numberOfDays": 30
+                            },
+                            {
+                                "title": "Adelaide",
+                                "zoneId": 3,
+                                "numberOfDays": 60
+                            },
+                            {
+                                "title": "Sydney",
+                                "zoneId": 4,
+                                "numberOfDays": 85
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Stability in key relationships",
+                        "score": 4,
+                        "zonalData": [{
+                                "title": "Melbourne",
+                                "zoneId": 1,
+                                "numberOfDays": 70
+                            },
+                            {
+                                "title": "Canberra",
+                                "zoneId": 2,
+                                "numberOfDays": 85
+                            },
+                            {
+                                "title": "Albury",
+                                "zoneId": 3,
+                                "numberOfDays": 90
+                            },
+                            {
+                                "title": "Sydney",
+                                "zoneId": 4,
+                                "numberOfDays": 98
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "creditScoreHistory": [],
+        "categoricalHistory": []
+    },
+    "MarkSmith": {
+        "creditScore": 661,
+        "country": "MYS",
+        "categories": [{
+                "title": "Phone Usage",
+                "score": 8.4,
+                "maxScore": 10,
+                "subCategories": [{
+                        "title": "Airtime utilized - last 3 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Airtime utilized - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Highest value of purchase - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total value of purchase",
+                        "score": 6
+                    },
+                    {
+                        "title": "Days since last activity",
+                        "score": 10
+                    },
+                    {
+                        "title": "Retail value of the latest handset ",
+                        "score": 9
+                    },
+                    {
+                        "title": "Number of Airtime loans - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Number of topup loans fallen overdue - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "Total blacklisted days for failure of prepaid payment -  last 6 months",
+                        "score": 10
+                    }
+                ]
+            },
+            {
+                "title": "Mobile Wallet Transactions",
+                "score": 7.6,
+                "maxScore": 10,
+                "subCategories": [{
+                        "title": "Days since last activity",
+                        "score": 6
+                    },
+                    {
+                        "title": "Total deposit at an agent - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total withdrawal  at an agent - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Total deposit from all sources - last 3 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "Total withdrawal  from all sources - last 3 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "Months on mobile network",
+                        "score": 2
+                    },
+                    {
+                        "title": "Months on mobile wallet",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total Other receipts into wallet - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Total Disbursements (B2C) - last 6 months",
+                        "score": 5
+                    },
+                    {
+                        "title": "Suspensions due to non-activity",
+                        "score": 6
+                    },
+                    {
+                        "title": "Modal value of balance - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Average balance - last 6 months",
+                        "score": 8
+                    }
+                ]
+            },
+            {
+                "title": "Payments",
+                "score": 6.8,
+                "maxScore": 10,
+                "subCategories": [{
+                        "title": "Payment to utility - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "No of utility payment - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "P2P amount sent - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "P2P recipients - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "MMI transactions sent - last 6 months",
+                        "score": 5
+                    },
+                    {
+                        "title": "MMI transactions received - last 6 months",
+                        "score": 5
+                    },
+                    {
+                        "title": "Value of MMI transactions sent - last 6 months",
+                        "score": 6
+                    },
+                    {
+                        "title": "Value of MMI transactions received - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Highest P2P amount sent - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total P2P amount received - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Highest P2P amount received - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "Number of P2P receipts into the wallet - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "Total amount paid for online shopping - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total number of online transaction - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Money paid to bank account via paybill - last 6 months",
+                        "score": 5
+                    }
+                ]
+            },
+            {
+                "title": "Location Distribution",
+                "score": 7,
+                "maxScore": 10,
+                "subCategories": [{
+                        "title": "Location Consistency",
+                        "score": 6,
+                        "zonalData": [{
+                                "title": "Kuala Lampur",
+                                "zoneId": 1,
+                                "numberOfDays": 120
+                            },
+                            {
+                                "title": "Kepong",
+                                "zoneId": 2,
+                                "numberOfDays": 150
+                            },
+                            {
+                                "title": "Ampang Jaya",
+                                "zoneId": 3,
+                                "numberOfDays": 130
+                            },
+                            {
+                                "title": "Rawang",
+                                "zoneId": 4,
+                                "numberOfDays": 101
+                            },
+                            {
+                                "title": "Kajang",
+                                "zoneId": 5,
+                                "numberOfDays": 170
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Network Diversity",
+                        "score": 7,
+                        "zonalData": [{
+                                "title": "Kuala Lampur",
+                                "zoneId": 1,
+                                "numberOfDays": 110
+                            },
+                            {
+                                "title": "Kepong",
+                                "zoneId": 2,
+                                "numberOfDays": 160
+                            },
+                            {
+                                "title": "Ampang Jaya",
+                                "zoneId": 3,
+                                "numberOfDays": 120
+                            },
+                            {
+                                "title": "Rawang",
+                                "zoneId": 4,
+                                "numberOfDays": 113
+                            },
+                            {
+                                "title": "Kajang",
+                                "zoneId": 5,
+                                "numberOfDays": 169
+                            },
+                            {
+                                "title": "Batang Kali",
+                                "zoneId": 6,
+                                "numberOfDays": 180
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Stability in key relationships",
+                        "score": 8,
+                        "zonalData": [{
+                                "title": "Kuala Lampur",
+                                "zoneId": 1,
+                                "numberOfDays": 140
+                            },
+                            {
+                                "title": "Kepong",
+                                "zoneId": 2,
+                                "numberOfDays": 160
+                            },
+                            {
+                                "title": "Ampang Jaya",
+                                "zoneId": 3,
+                                "numberOfDays": 190
+                            },
+                            {
+                                "title": "Rawang",
+                                "zoneId": 4,
+                                "numberOfDays": 111
+                            },
+                            {
+                                "title": "Kajang",
+                                "zoneId": 5,
+                                "numberOfDays": 160
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "creditScoreHistory": [],
+        "categoricalHistory": []
+    }
+}

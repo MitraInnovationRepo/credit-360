@@ -1,0 +1,17 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat:300,400);
+
+body {
+  font-family: 'Montserrat';
+  background: #2980b9;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #2c3e50, #2980b9);
+  background: linear-gradient(to bottom, #2c3e50, #2980b9);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+code {
+  border: @black dashed 1px;
+}

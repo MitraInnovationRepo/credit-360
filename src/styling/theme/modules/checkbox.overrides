@@ -1,0 +1,19 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+.ui.checkbox input ~ label{
+    color:white !important;
+}
+
+.ui.checkbox input:active ~ label{
+    color:white !important;
+}
+
+.ui.toggle.checkbox input:checked ~ .box, .ui.toggle.checkbox input:checked ~ label {
+    color:white !important;
+}
+
+.ui.toggle.checkbox input:focus:checked ~ .box, .ui.toggle.checkbox input:focus:checked ~ label {
+    color:white !important;
+}

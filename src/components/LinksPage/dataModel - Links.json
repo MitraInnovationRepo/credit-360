@@ -1,0 +1,50 @@
+{
+  "items": {
+    "page": {
+      "title": "Links Details",
+      "Meta": "MetaData"
+    }
+  },
+  "Links": [
+    {
+      "Name": "Phone Usage",
+      "APILink": "https://my.tel.com/services/api/v1/usage",
+      "APIDescription": "Give call usage score",
+      "Icon": "linkify",
+      "IconColor": "blue",
+      "status": "active",
+      "notification": 2,
+      "version": "v-1.0.0"
+    },
+    {
+      "Name": "Mobile Wallet",
+      "APILink": "https://my.tel.com/services/api/v1/mobile-wallet",
+      "APIDescription": "The mobile wallet gives credit score for mobile wallet usage",
+      "Icon": "linkify",
+      "IconColor": "orange",
+      "status": "active",
+      "notification": 0,
+      "version": "v-1.2.0"
+    },
+    {
+      "Name": "TransUnion",
+      "APILink": "https://my.tel.com/services/api/v1/mobile-wallet",
+      "APIDescription": "The mobile wallet gives credit score for mobile wallet usage",
+      "Icon": "linkify",
+      "IconColor": "orange",
+      "status": "active",
+      "notification": 0,
+      "version": "v-1.2.0"
+    },
+    {
+      "Name": "Form Filling Analytics",
+      "APILink": "https://my.tel.com/services/api/v1/financial-transaction",
+      "APIDescription": "Financial transaction Link contain credit score over the financial transaction history",
+      "Icon": "linkify",
+      "IconColor": "purple",
+      "status": "active",
+      "notification": 0,
+      "version": "v-2.0.0"
+    }
+  ]
+}

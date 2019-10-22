@@ -1,0 +1,1714 @@
+{
+    "metaInformation": {
+        "minCreditScore": 350,
+        "maxCreditScore": 850
+    },
+    "JamesWilliam": {
+        "creditScore": 380,
+        "country": "GBR",
+        "categories": [{
+                "title": "Usage",
+                "score": 4.7,
+                "maxScore": 10.0,
+                "subCategories": [{
+                        "title": "Airtime utilized - last 3 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "Airtime utilized - last 6 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "Highest value of purchase - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total value of purchase",
+                        "score": 4
+                    },
+                    {
+                        "title": "Days since last activity",
+                        "score": 5
+                    },
+                    {
+                        "title": "Retail value of the latest handset ",
+                        "score": 8
+                    },
+                    {
+                        "title": "Number of Airtime loans - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "Number of topup loans fallen overdue - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "Total blacklisted days for failure of prepaid payment -  last 6 months",
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "title": "VAS",
+                "score": 4.9,
+                "maxScore": 10.0,
+                "subCategories": [{
+                        "title": "Days since last activity",
+                        "score": 6
+                    },
+                    {
+                        "title": "Total deposit at an agent - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total withdrawal  at an agent - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Total deposit from all sources - last 3 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "Total withdrawal  from all sources - last 3 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "Months on mobile network",
+                        "score": 2
+                    },
+                    {
+                        "title": "Months on mobile wallet",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total Other receipts into wallet - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Total Disbursements (B2C) - last 6 months",
+                        "score": 5
+                    },
+                    {
+                        "title": "Suspensions due to non-activity",
+                        "score": 6
+                    },
+                    {
+                        "title": "Modal value of balance - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Average balance - last 6 months",
+                        "score": 8
+                    }
+                ]
+            },
+            {
+                "title": "Payments",
+                "score": 5.7,
+                "maxScore": 10.0,
+                "subCategories": [{
+                        "title": "Payment to utility - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "No of utility payment - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "P2P amount sent - last 6 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "P2P recipients - last 6 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "MMI transactions sent - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "MMI transactions received - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Value of MMI transactions sent - last 6 months",
+                        "score": 5
+                    },
+                    {
+                        "title": "Value of MMI transactions received - last 6 months",
+                        "score": 6
+                    },
+                    {
+                        "title": "Highest P2P amount sent - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total P2P amount received - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Highest P2P amount received - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "Number of P2P receipts into the wallet - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "Total amount paid for online shopping - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total number of online transaction - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Money paid to bank account via paybill - last 6 months",
+                        "score": 5
+                    }
+                ]
+            },
+            {
+                "title": "Location",
+                "score": 3.0,
+                "maxScore": 10.0,
+                "subCategories": [{
+                        "title": "Location Consistency",
+                        "score": 2,
+                        "zonalData": [{
+                                "title": "London",
+                                "zoneId": 1,
+                                "numberOfDays": 67
+                            },
+                            {
+                                "title": "Bristol",
+                                "zoneId": 2,
+                                "numberOfDays": 92
+                            },
+                            {
+                                "title": "Manchester",
+                                "zoneId": 3,
+                                "numberOfDays": 86
+                            },
+                            {
+                                "title": "Newcastle",
+                                "zoneId": 4,
+                                "numberOfDays": 49
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Network Diversity",
+                        "score": 3
+                    },
+                    {
+                        "title": "Stability in key relationships",
+                        "score": 4
+                    }
+                ]
+            }
+        ],
+        "creditScoreHistory": {
+            "3months": [{
+                    "x": 1,
+                    "y": 560
+                },
+                {
+                    "x": 2,
+                    "y": 560
+                },
+                {
+                    "x": 3,
+                    "y": 550
+                },
+                {
+                    "x": 4,
+                    "y": 550
+                },
+                {
+                    "x": 5,
+                    "y": 535
+                },
+                {
+                    "x": 6,
+                    "y": 550
+                },
+                {
+                    "x": 7,
+                    "y": 550
+                },
+                {
+                    "x": 8,
+                    "y": 560
+                },
+                {
+                    "x": 9,
+                    "y": 570
+                },
+                {
+                    "x": 10,
+                    "y": 560
+                },
+                {
+                    "x": 11,
+                    "y": 560
+                },
+                {
+                    "x": 12,
+                    "y": 560
+                },
+                {
+                    "x": 13,
+                    "y": 540
+                },
+                {
+                    "x": 14,
+                    "y": 560
+                },
+                {
+                    "x": 15,
+                    "y": 580
+                },
+                {
+                    "x": 16,
+                    "y": 560
+                },
+                {
+                    "x": 17,
+                    "y": 560
+                },
+                {
+                    "x": 18,
+                    "y": 560
+                }
+            ],
+            "6months": [{
+                    "x": 1,
+                    "y": 560
+                },
+                {
+                    "x": 2,
+                    "y": 550
+                },
+                {
+                    "x": 3,
+                    "y": 535
+                },
+                {
+                    "x": 4,
+                    "y": 550
+                },
+                {
+                    "x": 5,
+                    "y": 570
+                },
+                {
+                    "x": 6,
+                    "y": 560
+                },
+                {
+                    "x": 7,
+                    "y": 540
+                },
+                {
+                    "x": 8,
+                    "y": 580
+                },
+                {
+                    "x": 9,
+                    "y": 560
+                },
+                {
+                    "x": 10,
+                    "y": 560
+                },
+                {
+                    "x": 11,
+                    "y": 540
+                },
+                {
+                    "x": 12,
+                    "y": 550
+                },
+                {
+                    "x": 13,
+                    "y": 550
+                },
+                {
+                    "x": 14,
+                    "y": 560
+                },
+                {
+                    "x": 15,
+                    "y": 560
+                },
+                {
+                    "x": 16,
+                    "y": 560
+                },
+                {
+                    "x": 17,
+                    "y": 560
+                },
+                {
+                    "x": 18,
+                    "y": 560
+                }
+            ],
+            "12months": [{
+                    "x": 1,
+                    "y": 560
+                },
+                {
+                    "x": 2,
+                    "y": 550
+                },
+                {
+                    "x": 3,
+                    "y": 535
+                },
+                {
+                    "x": 4,
+                    "y": 550
+                },
+                {
+                    "x": 5,
+                    "y": 570
+                },
+                {
+                    "x": 6,
+                    "y": 560
+                },
+                {
+                    "x": 7,
+                    "y": 540
+                },
+                {
+                    "x": 8,
+                    "y": 580
+                },
+                {
+                    "x": 9,
+                    "y": 560
+                },
+                {
+                    "x": 10,
+                    "y": 560
+                },
+                {
+                    "x": 11,
+                    "y": 540
+                },
+                {
+                    "x": 12,
+                    "y": 550
+                },
+                {
+                    "x": 13,
+                    "y": 550
+                },
+                {
+                    "x": 14,
+                    "y": 560
+                },
+                {
+                    "x": 15,
+                    "y": 560
+                },
+                {
+                    "x": 16,
+                    "y": 560
+                },
+                {
+                    "x": 17,
+                    "y": 560
+                },
+                {
+                    "x": 18,
+                    "y": 560
+                }
+            ],
+            "24months": [{
+                    "x": 1,
+                    "y": 560
+                },
+                {
+                    "x": 2,
+                    "y": 570
+                },
+                {
+                    "x": 3,
+                    "y": 535
+                },
+                {
+                    "x": 4,
+                    "y": 550
+                },
+                {
+                    "x": 5,
+                    "y": 560
+                },
+                {
+                    "x": 6,
+                    "y": 560
+                },
+                {
+                    "x": 7,
+                    "y": 550
+                },
+                {
+                    "x": 8,
+                    "y": 570
+                },
+                {
+                    "x": 9,
+                    "y": 550
+                },
+                {
+                    "x": 10,
+                    "y": 560
+                },
+                {
+                    "x": 11,
+                    "y": 550
+                },
+                {
+                    "x": 12,
+                    "y": 550
+                },
+                {
+                    "x": 13,
+                    "y": 572
+                },
+                {
+                    "x": 14,
+                    "y": 560
+                },
+                {
+                    "x": 15,
+                    "y": 550
+                },
+                {
+                    "x": 16,
+                    "y": 560
+                },
+                {
+                    "x": 17,
+                    "y": 560
+                },
+                {
+                    "x": 18,
+                    "y": 560
+                }
+            ]
+        },
+        "categoricalHistory": {
+            "3months": [{
+                    "title": "Usage",
+                    "score": 4.7
+                },
+                {
+                    "title": "VAS",
+                    "score": 4.8
+                },
+                {
+                    "title": "Payments",
+                    "score": 5.7
+                },
+                {
+                    "title": "Location",
+                    "score": 3.0
+                }
+            ],
+            "6months": [{
+                    "title": "Usage",
+                    "score": 4.6
+                },
+                {
+                    "title": "VAS",
+                    "score": 4.8
+                },
+                {
+                    "title": "Payments",
+                    "score": 5.6
+                },
+                {
+                    "title": "Location",
+                    "score": 3.1
+                }
+            ],
+            "12months": [{
+                    "title": "Usage",
+                    "score": 4.6
+                },
+                {
+                    "title": "VAS",
+                    "score": 4.8
+                },
+                {
+                    "title": "Payments",
+                    "score": 5.5
+                },
+                {
+                    "title": "Location",
+                    "score": 3.0
+                }
+            ],
+            "24months": [{
+                    "title": "Usage",
+                    "score": 4.5
+                },
+                {
+                    "title": "VAS",
+                    "score": 4.7
+                },
+                {
+                    "title": "Payments",
+                    "score": 5.6
+                },
+                {
+                    "title": "Location",
+                    "score": 3.1
+                }
+            ]
+        }
+    },
+    "PeterHarington": {
+        "creditScore": 564,
+        "country": "AUS",
+        "categories": [{
+                "title": "Usage",
+                "score": 4.8,
+                "maxScore": 10.0,
+                "subCategories": [{
+                        "title": "Airtime utilized - last 3 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "Airtime utilized - last 6 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "Highest value of purchase - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Total value of purchase",
+                        "score": 4
+                    },
+                    {
+                        "title": "Days since last activity",
+                        "score": 5
+                    },
+                    {
+                        "title": "Retail value of the latest handset ",
+                        "score": 8
+                    },
+                    {
+                        "title": "Number of Airtime loans - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "Number of topup loans fallen overdue - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "Total blacklisted days for failure of prepaid payment -  last 6 months",
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "title": "VAS",
+                "score": 5.0,
+                "maxScore": 10.0,
+                "subCategories": [{
+                        "title": "Days since last activity",
+                        "score": 6
+                    },
+                    {
+                        "title": "Total deposit at an agent - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total withdrawal  at an agent - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Total deposit from all sources - last 3 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "Total withdrawal  from all sources - last 3 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "Months on mobile network",
+                        "score": 2
+                    },
+                    {
+                        "title": "Months on mobile wallet",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total Other receipts into wallet - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Total Disbursements (B2C) - last 6 months",
+                        "score": 6
+                    },
+                    {
+                        "title": "Suspensions due to non-activity",
+                        "score": 6
+                    },
+                    {
+                        "title": "Modal value of balance - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Average balance - last 6 months",
+                        "score": 8
+                    }
+                ]
+            },
+            {
+                "title": "Payments",
+                "score": 5.8,
+                "maxScore": 10.0,
+                "subCategories": [{
+                        "title": "Payment to utility - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "No of utility payment - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "P2P amount sent - last 6 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "P2P recipients - last 6 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "MMI transactions sent - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "MMI transactions received - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Value of MMI transactions sent - last 6 months",
+                        "score": 6
+                    },
+                    {
+                        "title": "Value of MMI transactions received - last 6 months",
+                        "score": 6
+                    },
+                    {
+                        "title": "Highest P2P amount sent - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total P2P amount received - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Highest P2P amount received - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "Number of P2P receipts into the wallet - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "Total amount paid for online shopping - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total number of online transaction - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Money paid to bank account via paybill - last 6 months",
+                        "score": 5
+                    }
+                ]
+            },
+            {
+                "title": "Location",
+                "score": 3,
+                "maxScore": 10.0,
+                "subCategories": [{
+                        "title": "Location Consistency",
+                        "score": 2,
+                        "zonalData": [{
+                                "title": "Townsville",
+                                "zoneId": 1,
+                                "numberOfDays": 20
+                            },
+                            {
+                                "title": "Warrnambool",
+                                "zoneId": 2,
+                                "numberOfDays": 40
+                            },
+                            {
+                                "title": "Bendigo",
+                                "zoneId": 3,
+                                "numberOfDays": 30
+                            },
+                            {
+                                "title": "Adelaide",
+                                "zoneId": 4,
+                                "numberOfDays": 70
+                            },
+                            {
+                                "title": "Sydney",
+                                "zoneId": 5,
+                                "numberOfDays": 200
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Network Diversity",
+                        "score": 3
+                    },
+                    {
+                        "title": "Stability in key relationships",
+                        "score": 4
+                    }
+                ]
+            }
+        ],
+        "creditScoreHistory": {
+            "3months": [{
+                    "x": 1,
+                    "y": 565
+                },
+                {
+                    "x": 2,
+                    "y": 565
+                },
+                {
+                    "x": 3,
+                    "y": 564
+                },
+                {
+                    "x": 4,
+                    "y": 550
+                },
+                {
+                    "x": 5,
+                    "y": 555
+                },
+                {
+                    "x": 6,
+                    "y": 565
+                },
+                {
+                    "x": 7,
+                    "y": 565
+                },
+                {
+                    "x": 8,
+                    "y": 560
+                },
+                {
+                    "x": 9,
+                    "y": 564
+                },
+                {
+                    "x": 10,
+                    "y": 564
+                },
+                {
+                    "x": 11,
+                    "y": 564
+                },
+                {
+                    "x": 12,
+                    "y": 565
+                },
+                {
+                    "x": 13,
+                    "y": 550
+                },
+                {
+                    "x": 14,
+                    "y": 564
+                },
+                {
+                    "x": 15,
+                    "y": 570
+                },
+                {
+                    "x": 16,
+                    "y": 572
+                },
+                {
+                    "x": 17,
+                    "y": 568
+                },
+                {
+                    "x": 18,
+                    "y": 564
+                }
+            ],
+            "6months": [{
+                    "x": 1,
+                    "y": 565
+                },
+                {
+                    "x": 2,
+                    "y": 564
+                },
+                {
+                    "x": 3,
+                    "y": 555
+                },
+                {
+                    "x": 4,
+                    "y": 565
+                },
+                {
+                    "x": 5,
+                    "y": 564
+                },
+                {
+                    "x": 6,
+                    "y": 564
+                },
+                {
+                    "x": 7,
+                    "y": 550
+                },
+                {
+                    "x": 8,
+                    "y": 572
+                },
+                {
+                    "x": 9,
+                    "y": 568
+                },
+                {
+                    "x": 10,
+                    "y": 560
+                },
+                {
+                    "x": 11,
+                    "y": 560
+                },
+                {
+                    "x": 12,
+                    "y": 564
+                },
+                {
+                    "x": 13,
+                    "y": 564
+                },
+                {
+                    "x": 14,
+                    "y": 564
+                },
+                {
+                    "x": 15,
+                    "y": 564
+                },
+                {
+                    "x": 16,
+                    "y": 560
+                },
+                {
+                    "x": 17,
+                    "y": 560
+                },
+                {
+                    "x": 18,
+                    "y": 562
+                }
+            ],
+            "12months": [{
+                    "x": 1,
+                    "y": 565
+                },
+                {
+                    "x": 2,
+                    "y": 555
+                },
+                {
+                    "x": 3,
+                    "y": 564
+                },
+                {
+                    "x": 4,
+                    "y": 550
+                },
+                {
+                    "x": 5,
+                    "y": 568
+                },
+                {
+                    "x": 6,
+                    "y": 560
+                },
+                {
+                    "x": 7,
+                    "y": 564
+                },
+                {
+                    "x": 8,
+                    "y": 564
+                },
+                {
+                    "x": 9,
+                    "y": 562
+                },
+                {
+                    "x": 10,
+                    "y": 560
+                },
+                {
+                    "x": 11,
+                    "y": 560
+                },
+                {
+                    "x": 12,
+                    "y": 565
+                },
+                {
+                    "x": 13,
+                    "y": 564
+                },
+                {
+                    "x": 14,
+                    "y": 564
+                },
+                {
+                    "x": 15,
+                    "y": 564
+                },
+                {
+                    "x": 16,
+                    "y": 572
+                },
+                {
+                    "x": 17,
+                    "y": 570
+                },
+                {
+                    "x": 18,
+                    "y": 564
+                }
+            ],
+            "24months": [{
+                    "x": 1,
+                    "y": 565
+                },
+                {
+                    "x": 2,
+                    "y": 564
+                },
+                {
+                    "x": 3,
+                    "y": 568
+                },
+                {
+                    "x": 4,
+                    "y": 564
+                },
+                {
+                    "x": 5,
+                    "y": 555
+                },
+                {
+                    "x": 6,
+                    "y": 560
+                },
+                {
+                    "x": 7,
+                    "y": 564
+                },
+                {
+                    "x": 8,
+                    "y": 564
+                },
+                {
+                    "x": 9,
+                    "y": 570
+                },
+                {
+                    "x": 10,
+                    "y": 572
+                },
+                {
+                    "x": 11,
+                    "y": 564
+                },
+                {
+                    "x": 12,
+                    "y": 560
+                },
+                {
+                    "x": 13,
+                    "y": 564
+                },
+                {
+                    "x": 14,
+                    "y": 564
+                },
+                {
+                    "x": 15,
+                    "y": 572
+                },
+                {
+                    "x": 16,
+                    "y": 555
+                },
+                {
+                    "x": 17,
+                    "y": 555
+                },
+                {
+                    "x": 18,
+                    "y": 560
+                }
+            ]
+        },
+        "categoricalHistory": {
+            "3months": [{
+                    "title": "Usage",
+                    "score": 4.7
+                },
+                {
+                    "title": "VAS",
+                    "score": 4.9
+                },
+                {
+                    "title": "Payments",
+                    "score": 5.7
+                },
+                {
+                    "title": "Location",
+                    "score": 3.1
+                }
+            ],
+            "6months": [{
+                    "title": "Usage",
+                    "score": 4.8
+                },
+                {
+                    "title": "VAS",
+                    "score": 4.8
+                },
+                {
+                    "title": "Payments",
+                    "score": 5.5
+                },
+                {
+                    "title": "Location",
+                    "score": 3.2
+                }
+            ],
+            "12months": [{
+                    "title": "Usage",
+                    "score": 4.7
+                },
+                {
+                    "title": "VAS",
+                    "score": 4.7
+                },
+                {
+                    "title": "Payments",
+                    "score": 5.6
+                },
+                {
+                    "title": "Location",
+                    "score": 3.0
+                }
+            ],
+            "24months": [{
+                    "title": "Usage",
+                    "score": 4.6
+                },
+                {
+                    "title": "VAS",
+                    "score": 4.8
+                },
+                {
+                    "title": "Payments",
+                    "score": 5.7
+                },
+                {
+                    "title": "Location",
+                    "score": 3.0
+                }
+            ]
+        }
+    },
+    "MichelleSmith": {
+        "creditScore": 761,
+        "country": "MYS",
+        "categories": [{
+                "title": "Usage",
+                "score": 8.4,
+                "maxScore": 10.0,
+                "subCategories": [{
+                        "title": "Airtime utilized - last 3 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Airtime utilized - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Highest value of purchase - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total value of purchase",
+                        "score": 6
+                    },
+                    {
+                        "title": "Days since last activity",
+                        "score": 10
+                    },
+                    {
+                        "title": "Retail value of the latest handset ",
+                        "score": 9
+                    },
+                    {
+                        "title": "Number of Airtime loans - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Number of topup loans fallen overdue - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "Total blacklisted days for failure of prepaid payment -  last 6 months",
+                        "score": 10
+                    }
+                ]
+            },
+            {
+                "title": "VAS",
+                "score": 7.6,
+                "maxScore": 10.0,
+                "subCategories": [{
+                        "title": "Days since last activity",
+                        "score": 6
+                    },
+                    {
+                        "title": "Total deposit at an agent - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total withdrawal  at an agent - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Total deposit from all sources - last 3 months",
+                        "score": 1
+                    },
+                    {
+                        "title": "Total withdrawal  from all sources - last 3 months",
+                        "score": 2
+                    },
+                    {
+                        "title": "Months on mobile network",
+                        "score": 2
+                    },
+                    {
+                        "title": "Months on mobile wallet",
+                        "score": 3
+                    },
+                    {
+                        "title": "Total Other receipts into wallet - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "Total Disbursements (B2C) - last 6 months",
+                        "score": 5
+                    },
+                    {
+                        "title": "Suspensions due to non-activity",
+                        "score": 6
+                    },
+                    {
+                        "title": "Modal value of balance - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Average balance - last 6 months",
+                        "score": 8
+                    }
+                ]
+            },
+            {
+                "title": "Payments",
+                "score": 6.8,
+                "maxScore": 10.0,
+                "subCategories": [{
+                        "title": "Payment to utility - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "No of utility payment - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "P2P amount sent - last 6 months",
+                        "score": 4
+                    },
+                    {
+                        "title": "P2P recipients - last 6 months",
+                        "score": 3
+                    },
+                    {
+                        "title": "MMI transactions sent - last 6 months",
+                        "score": 5
+                    },
+                    {
+                        "title": "MMI transactions received - last 6 months",
+                        "score": 5
+                    },
+                    {
+                        "title": "Value of MMI transactions sent - last 6 months",
+                        "score": 6
+                    },
+                    {
+                        "title": "Value of MMI transactions received - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Highest P2P amount sent - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total P2P amount received - last 6 months",
+                        "score": 8
+                    },
+                    {
+                        "title": "Highest P2P amount received - last 6 months",
+                        "score": 9
+                    },
+                    {
+                        "title": "Number of P2P receipts into the wallet - last 6 months",
+                        "score": 10
+                    },
+                    {
+                        "title": "Total amount paid for online shopping - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Total number of online transaction - last 6 months",
+                        "score": 7
+                    },
+                    {
+                        "title": "Money paid to bank account via paybill - last 6 months",
+                        "score": 5
+                    }
+                ]
+            },
+            {
+                "title": "Location",
+                "score": 7,
+                "maxScore": 10.0,
+                "subCategories": [{
+                        "title": "Location Consistency",
+                        "score": 6,
+                        "zonalData": [{
+                                "title": "Kuala Lumpur",
+                                "zoneId": 1,
+                                "numberOfDays": 250
+                            },
+                            {
+                                "title": "Seberang Perai and Penang Island",
+                                "zoneId": 2,
+                                "numberOfDays": 80
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Network Diversity",
+                        "score": 7
+                    },
+                    {
+                        "title": "Stability in key relationships",
+                        "score": 8
+                    }
+                ]
+            }
+        ],
+        "creditScoreHistory": {
+            "3months": [{
+                    "x": 1,
+                    "y": 760
+                },
+                {
+                    "x": 2,
+                    "y": 760
+                },
+                {
+                    "x": 3,
+                    "y": 761
+                },
+                {
+                    "x": 4,
+                    "y": 767
+                },
+                {
+                    "x": 5,
+                    "y": 760
+                },
+                {
+                    "x": 6,
+                    "y": 750
+                },
+                {
+                    "x": 7,
+                    "y": 760
+                },
+                {
+                    "x": 8,
+                    "y": 761
+                },
+                {
+                    "x": 9,
+                    "y": 760
+                },
+                {
+                    "x": 10,
+                    "y": 755
+                },
+                {
+                    "x": 11,
+                    "y": 755
+                },
+                {
+                    "x": 12,
+                    "y": 761
+                },
+                {
+                    "x": 13,
+                    "y": 761
+                },
+                {
+                    "x": 14,
+                    "y": 761
+                },
+                {
+                    "x": 15,
+                    "y": 761
+                },
+                {
+                    "x": 16,
+                    "y": 760
+                },
+                {
+                    "x": 17,
+                    "y": 760
+                },
+                {
+                    "x": 18,
+                    "y": 765
+                }
+            ],
+            "6months": [{
+                    "x": 1,
+                    "y": 760
+                },
+                {
+                    "x": 2,
+                    "y": 761
+                },
+                {
+                    "x": 3,
+                    "y": 760
+                },
+                {
+                    "x": 4,
+                    "y": 760
+                },
+                {
+                    "x": 5,
+                    "y": 760
+                },
+                {
+                    "x": 6,
+                    "y": 750
+                },
+                {
+                    "x": 7,
+                    "y": 761
+                },
+                {
+                    "x": 8,
+                    "y": 761
+                },
+                {
+                    "x": 9,
+                    "y": 760
+                },
+                {
+                    "x": 10,
+                    "y": 761
+                },
+                {
+                    "x": 11,
+                    "y": 764
+                },
+                {
+                    "x": 12,
+                    "y": 764
+                },
+                {
+                    "x": 13,
+                    "y": 765
+                },
+                {
+                    "x": 14,
+                    "y": 767
+                },
+                {
+                    "x": 15,
+                    "y": 761
+                },
+                {
+                    "x": 16,
+                    "y": 761
+                },
+                {
+                    "x": 17,
+                    "y": 761
+                },
+                {
+                    "x": 18,
+                    "y": 761
+                }
+            ],
+            "12months": [{
+                    "x": 1,
+                    "y": 760
+                },
+                {
+                    "x": 2,
+                    "y": 760
+                },
+                {
+                    "x": 3,
+                    "y": 760
+                },
+                {
+                    "x": 4,
+                    "y": 761
+                },
+                {
+                    "x": 5,
+                    "y": 754
+                },
+                {
+                    "x": 6,
+                    "y": 764
+                },
+                {
+                    "x": 7,
+                    "y": 765
+                },
+                {
+                    "x": 8,
+                    "y": 761
+                },
+                {
+                    "x": 9,
+                    "y": 761
+                },
+                {
+                    "x": 10,
+                    "y": 760
+                },
+                {
+                    "x": 11,
+                    "y": 760
+                },
+                {
+                    "x": 12,
+                    "y": 761
+                },
+                {
+                    "x": 13,
+                    "y": 761
+                },
+                {
+                    "x": 14,
+                    "y": 765
+                },
+                {
+                    "x": 15,
+                    "y": 765
+                },
+                {
+                    "x": 16,
+                    "y": 768
+                },
+                {
+                    "x": 17,
+                    "y": 761
+                },
+                {
+                    "x": 18,
+                    "y": 761
+                }
+            ],
+            "24months": [{
+                    "x": 1,
+                    "y": 760
+                },
+                {
+                    "x": 2,
+                    "y": 760
+                },
+                {
+                    "x": 3,
+                    "y": 758
+                },
+                {
+                    "x": 4,
+                    "y": 765
+                },
+                {
+                    "x": 5,
+                    "y": 761
+                },
+                {
+                    "x": 6,
+                    "y": 760
+                },
+                {
+                    "x": 7,
+                    "y": 761
+                },
+                {
+                    "x": 8,
+                    "y": 765
+                },
+                {
+                    "x": 9,
+                    "y": 761
+                },
+                {
+                    "x": 10,
+                    "y": 767
+                },
+                {
+                    "x": 11,
+                    "y": 765
+                },
+                {
+                    "x": 12,
+                    "y": 767
+                },
+                {
+                    "x": 13,
+                    "y": 768
+                },
+                {
+                    "x": 14,
+                    "y": 761
+                },
+                {
+                    "x": 15,
+                    "y": 761
+                },
+                {
+                    "x": 16,
+                    "y": 760
+                },
+                {
+                    "x": 17,
+                    "y": 761
+                },
+                {
+                    "x": 18,
+                    "y": 760
+                }
+            ]
+        },
+        "categoricalHistory": {
+            "3months": [{
+                    "title": "Usage",
+                    "score": 8.4
+                },
+                {
+                    "title": "VAS",
+                    "score": 7.6
+                },
+                {
+                    "title": "Payments",
+                    "score": 6.8
+                },
+                {
+                    "title": "Location",
+                    "score": 7.1
+                }
+            ],
+            "6months": [{
+                    "title": "Usage",
+                    "score": 8.9
+                },
+                {
+                    "title": "VAS",
+                    "score": 7.7
+                },
+                {
+                    "title": "Payments",
+                    "score": 6.9
+                },
+                {
+                    "title": "Location",
+                    "score": 7.2
+                }
+            ],
+            "12months": [{
+                    "title": "Usage",
+                    "score": 8.5
+                },
+                {
+                    "title": "VAS",
+                    "score": 7.7
+                },
+                {
+                    "title": "Payments",
+                    "score": 6.7
+                },
+                {
+                    "title": "Location",
+                    "score": 7.8
+                }
+            ],
+            "24months": [{
+                    "title": "Usage",
+                    "score": 8.6
+                },
+                {
+                    "title": "VAS",
+                    "score": 7.5
+                },
+                {
+                    "title": "Payments",
+                    "score": 6.5
+                },
+                {
+                    "title": "Location",
+                    "score": 6.9
+                }
+            ]
+        }
+    },
+    "AnnaHendricks": {
+        "remarks": "This person has not given the consent to view his/her credit score on this system yet."
+    }
+}
